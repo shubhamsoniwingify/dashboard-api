@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "dashboard-api-executor",
+    "name": "dashboard-api",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "sap9ma7uzk"
+  }
+}

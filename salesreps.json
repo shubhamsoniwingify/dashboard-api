@@ -1,0 +1,93 @@
+[
+  {
+    "name": "John Doe",
+    "mrr": 5230,
+    "logos": 102,
+    "calls": 30,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 1
+  },
+  {
+    "name": "Jane Smith",
+    "mrr": 4586,
+    "logos": 95,
+    "calls": 23,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 2
+  },
+  {
+    "name": "Ethan Hunt",
+    "mrr": 3500,
+    "logos": 82,
+    "calls": 10,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 3
+  },
+  {
+    "name": "Jane Doe",
+    "mrr": 3200,
+    "logos": 80,
+    "calls": 9,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 4
+  },
+  {
+    "name": "Julia Cruise",
+    "mrr": 3180,
+    "logos": 78,
+    "calls": 9,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 5
+  },
+  {
+    "name": "Tom Roberts",
+    "mrr": 3178,
+    "logos": 76,
+    "calls": 9,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 6
+  },
+  {
+    "name": "Julia Cruise",
+    "mrr": 3180,
+    "logos": 78,
+    "calls": 9,
+    "leads": 10,
+    "contacts": 6,
+    "needs": 4,
+    "proposals": 5,
+    "negotiations": 5,
+    "won": 5,
+    "id": 7
+  }
+]
